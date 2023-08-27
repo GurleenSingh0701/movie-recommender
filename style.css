@@ -1,0 +1,28 @@
+
+  .css-1y4p8pa.ea3mdgi4{
+    max-width:90rem;
+  }
+  .css-1y4p8pa{
+   max-width: auto;
+  }
+  .css-183lzff
+  {
+    white-space: wrap !important;
+    display: flex;
+    flex-flow: column;
+    flex-wrap: wrap !important;
+    font-size: 1rem;
+    overflow: hidden !important;
+    font-weight: bold;
+    white-space: pre-wrap;
+  }
+  img{
+    width: 200px;
+    height: 300px;
+    border-radius: 1rem;
+    transition: all 0.5s;
+  }
+  img:hover{
+   
+    transform: scale(1.1);
+  }
